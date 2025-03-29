@@ -102,7 +102,7 @@ header {
 /* Hero Section */
 .hero {
     height: 80vh;
-    background: url('../RainCoast.png') no-repeat center center/cover;
+    background: url('RainCoast.png') no-repeat center center/cover;
     display: flex;
     align-items: center;
     justify-content: center; /* Center horizontally */
