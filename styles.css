@@ -102,7 +102,7 @@ header {
 /* Hero Section */
 .hero {
     height: 80vh;
-    background: url('RainCoast.png') no-repeat center center/cover;
+    background: url('https://st.hzcdn.com/fimgs/2f129c440ea9100b_7997-w1050-h525-b2-p0-q90--.jpg') no-repeat center center/cover;
     display: flex;
     align-items: center;
     justify-content: center; /* Center horizontally */
